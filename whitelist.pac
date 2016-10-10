@@ -51,6 +51,7 @@ var RULES = [
     ],
     //custom-list
     [
+        ".elearningfriendly.com",
         ".douyu.com",
         ".doubanio.com",
         ".huomao.com",
